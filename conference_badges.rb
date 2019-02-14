@@ -2,4 +2,4 @@
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end 
-def 
+def batch_badge_creator
