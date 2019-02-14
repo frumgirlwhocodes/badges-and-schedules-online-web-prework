@@ -23,3 +23,4 @@ def batch_badge_creator(array)
     assign_rooms(attendees).each do |room|
       puts room 
     end 
+  end 
