@@ -16,3 +16,4 @@ def batch_badge_creator(array)
     end 
     new_array
   end 
+  def printer()
